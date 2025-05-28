@@ -42,7 +42,6 @@ print("Lista después de la inserción:")
 my_list.print_list()
 # HEAD -> 5 -> 10 -> 20 -> NULL
 
-# Insertar otro valor diferente al de tu compañero
-my_list.insert_at_beginning(3)
+my_list.insert_at_beginning(2)
 my_list.print_list()
 # HEAD -> 2 -> 5 -> 10 -> 20 -> NULL
